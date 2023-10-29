@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.card {
+    border: 1px solid #e0e0e0;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.card img {
+    width: 100px;
+    border-radius: 50%;
+}
+.testclass {
+    color: red;
+}
